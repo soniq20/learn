@@ -188,6 +188,7 @@ private String modelName = "Mustang";
 //        MyClass myFastCar = new MyClass();
 //        myFastCar.honk();
 //        System.out.println(myFastCar.brand + " "+myFastCar.modelName);
+        System.out.println("new");
 
 //        int result = sum(1, 3);
 //        System.out.println(result);
